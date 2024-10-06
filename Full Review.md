@@ -1,10 +1,4 @@
-**Contributors:**
-
-**Team Lead: **Surprise Baloyi
-
-**Members:** Sewedo Ajisegiri, Mercy Francis, Salaam Ridwan.&#x20;
-
-**Comprehensive Molecular Characterization of Gastric Adenocarcinoma**
+### Comprehensive Molecular Characterization of Gastric Adenocarcinoma
 
 **Introduction**
 
@@ -17,6 +11,8 @@ A total of 295 gastric adenocarcinoma tissue samples were collected in a fresh f
 **Results**
 
 This study identified four primary genomic subtypes of gastric cancer: Epstein–Barr virus-positive tumors, microsatellite unstable tumors, and those with chromosomal instability as shown in Fig. 1
+
+![Figure 1](https://github.com/user-attachments/assets/af39ddca-c1b9-4adf-932b-0e8fb50ca0bf)
 
 **Figure 1: **A representation of the genomic subtypes of gastric carcinoma with sample size data**.**
 
