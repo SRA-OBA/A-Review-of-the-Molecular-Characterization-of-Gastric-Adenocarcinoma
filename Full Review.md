@@ -12,7 +12,7 @@ A total of 295 gastric adenocarcinoma tissue samples were collected in a fresh f
 
 This study identified four primary genomic subtypes of gastric cancer: Epstein–Barr virus-positive tumors, microsatellite unstable tumors, and those with chromosomal instability as shown in Fig. 1
 
-![Figure 1](https://github.com/user-attachments/assets/af39ddca-c1b9-4adf-932b-0e8fb50ca0bf)
+[Figure 1](https://github.com/user-attachments/assets/b636af61-806f-4a36-860c-298cd8568ce0)
 
 **Figure 1: **A representation of the genomic subtypes of gastric carcinoma with sample size data**.**
 
